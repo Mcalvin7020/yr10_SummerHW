@@ -23,11 +23,11 @@ There are **24** marks available and are awarded grades as follows:
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
 
 ```
-answer here
+to help the computer understand
 ```
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
-answer here
+10010011
 ```
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 ```
@@ -47,12 +47,12 @@ ENDFUNCTION
 
 (a) What type of data is **users**? **(1 mark)**
 ```
-answer here
+variable
 ```
 
 (b) What type of data is returned by this function? **(1 mark)**
 ```
-answer here
+boolean
 ```
 
 ##Errors
@@ -74,7 +74,7 @@ answer here
 
 (b) What is meant by a **syntax** error? **(1 mark)**
 ```
-answer here
+an error where you have mispelled or misused a in-built function.
 ```
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
@@ -84,7 +84,7 @@ answer here
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
 ```
-answer here
+an error that stops the programme because of zero division
 ```
 
 ##Algortithms
